@@ -81,6 +81,7 @@ class MacUserActions:
             [
                 application_support / "Code/User/settings.json",
                 application_support / "VSCodium/User/settings.json",
+                application_support / "Positron/User/settings.json",
             ]
         )
 
